@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+sentence-transformers
+transformers
+torch
+faiss-cpu
+numpy
+scikit-learn
+anthropic
+python-dotenv

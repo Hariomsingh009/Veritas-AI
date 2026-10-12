@@ -1,0 +1,8 @@
+[
+ {"question":"When was the Eiffel Tower completed?","answer":"The Eiffel Tower was completed in 1889.","label":0},
+ {"question":"When was the Eiffel Tower completed?","answer":"The Eiffel Tower was completed in 1887.","label":1},
+ {"question":"Who invented the telephone?","answer":"Alexander Graham Bell received the first US telephone patent in 1876.","label":0},
+ {"question":"Who invented the telephone?","answer":"Thomas Edison invented the telephone in 1876.","label":1},
+ {"question":"Who invented the Web?","answer":"Tim Berners-Lee invented the World Wide Web at CERN.","label":0},
+ {"question":"Who invented the Web?","answer":"The World Wide Web was invented by Bill Gates in 1995.","label":1}
+]
